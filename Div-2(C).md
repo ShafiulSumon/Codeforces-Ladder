@@ -15,7 +15,7 @@
 | 13 | [Phone Numbers](https://codeforces.com/problemset/problem/898/C) | 1400 | done |
 | 14 | [Servers](https://codeforces.com/problemset/problem/747/C) | 1400 | done |
 | 15 | [Constanze's Machine](https://codeforces.com/problemset/problem/1245/C) | 1400 | done |
-| 16 | [Candies!](https://codeforces.com/problemset/problem/1189/C) | 1400 |  |
+| 16 | [Candies!](https://codeforces.com/problemset/problem/1189/C) | 1400 | done |
 | 17 | [Queen](https://codeforces.com/problemset/problem/1143/C) | 1400 |  |
 | 18 | [Three displays](https://codeforces.com/problemset/problem/987/C) | 1400 |  |
 | 19 | [Connect](https://codeforces.com/problemset/problem/1130/C) | 1400 |  |
